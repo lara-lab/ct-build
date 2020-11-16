@@ -1,5 +1,6 @@
 {
   "name": "lara-lab/ct-build",
   "type": "library",
-  "description": ""
+  "description": "",
+  "license": "MIT"
 }
